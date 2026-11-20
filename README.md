@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CV Flutter Nadia
 
 Application Flutter de présentation personnelle avec :
@@ -52,3 +53,7 @@ Si une photo n'est pas encore présente, l'application affiche des initiales à 
 ## Important
 
 L'identifiant et le mot de passe sont codés directement dans l'application pour la démonstration du TP. Ce mécanisme n'est pas une authentification sécurisée pour une vraie application.
+=======
+# cv_flutter_nadia
+Application CV personnelle développée avec flutter et Dart.
+>>>>>>> ed859c33aa38993c574feb5b3d2e1fb519470ec6
