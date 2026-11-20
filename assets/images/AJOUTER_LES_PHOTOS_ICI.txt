@@ -1,0 +1,3 @@
+Ajoute ici les photos avec ces noms exacts :
+nadia.jpg, jeanson.jpg, anouarite.jpg, lydia.jpg, claudia.jpg, johny.jpg, jonathan.jpg, joachim.jpg, dorcas.jpg.
+Si une photo manque, l'application affichera les initiales.
