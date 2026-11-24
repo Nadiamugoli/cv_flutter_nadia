@@ -38,6 +38,16 @@ Tu dois voir une ligne "sdk gphone ... (mobile) • emulator-5554 • android".
 Ouvre le dossier du projet, choisis l'émulateur dans la liste en haut,
 puis clique sur ▶ (Run) avec `lib/main.dart` sélectionné.
 
+## TP2 : connexion à l'API (XAMPP)
+- Démarre Apache et MySQL dans XAMPP (API dans `C:\xampp\htdocs\api-test`).
+- Sur l'émulateur, l'application utilise `http://10.0.2.2/api-test/public`
+  (10.0.2.2 = ton PC vu depuis l'émulateur). Sur Windows/Chrome : `localhost`.
+- Le HTTP non chiffré doit être autorisé : `2_lancer_cv.bat` lance
+  `patch_android.ps1` qui ajoute `usesCleartextTraffic` et la permission
+  INTERNET dans `android/app/src/main/AndroidManifest.xml`.
+  Si tu lances à la main : `powershell -File patch_android.ps1` après
+  `flutter create --platforms=android .`.
+- Téléphone physique : mets l'IP locale du PC dans `lib/services/api_service.dart`.
+
 ## Connexion
-Identifiant : nadia
-Mot de passe : 1234
+Utilise l'e-mail et le mot de passe créés via `POST /accounts/register`.
