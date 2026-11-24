@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 ## 🎥 Vidéo de démonstration
 
-[▶ Regarder la vidéo du projet CV Flutter](./video.mp4)
+[▶ Regarder la vidéo du projet CV Flutter](https://drive.google.com/file/d/108LYr2csIaRDxxJDxdzIFYDopTKIalTy/view?usp=sharing)
 
 <img width="495" height="936" alt="Accuiel" src="https://github.com/user-attachments/assets/016dde2d-3fbb-4b7b-92ec-ce8ebd6afc5a" /><img width="495" height="940" alt="Presentation de la famille" src="https://github.com/user-attachments/assets/a1345991-3b3f-4bbb-9815-347c0b4ea61b" />
 <img width="494" height="940" alt="Mon CV" src="https://github.com/user-attachments/assets/e0b03f70-d668-4036-90a9-c479ad7a7102" />
